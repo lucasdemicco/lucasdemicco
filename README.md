@@ -6,4 +6,4 @@
 ### About me
 I'm a {mobile} junior developer in android technology
 
-- 👨🏼‍🏫 - I'm have courses on many technologies, such as Java, Android SDK, REST API, Kotlin, MySQL, Design UI and Git
+- 👨🏼‍🏫 - I'm have courses on many technologies, such as Java and C#, Android SDK, REST API, Kotlin, MySQL, .NET WebFroms and .NET CORE MVC,  Design UI and Git
