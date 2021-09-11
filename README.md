@@ -6,14 +6,16 @@
 
 - 🤝 Sou colaborador da empresa iPortSolutions [https://www.iportsolutions.com.br/](https://www.iportsolutions.com.br/)
 
-- 📫 Email de contato: **lucasmicco@hotmail.com**
-
 <h3 align="left">Visite meu LinkedIn:</h3>
 <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <p align="left">
 </p>
+
+- 📫 Email de contato: **lucasmicco@hotmail.com**
+
+
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="20" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
