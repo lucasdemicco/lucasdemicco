@@ -10,7 +10,9 @@
 
 <h3 align="left">Visite meu LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-de-micco-a40b23208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-de-micco-a40b23208" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 </p>
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
