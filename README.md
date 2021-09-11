@@ -7,8 +7,8 @@
 - 🤝 Sou colaborador da empresa iPortSolutions [https://www.iportsolutions.com.br/](https://www.iportsolutions.com.br/)
 
 - 📫 Entre em contato: **lucasmicco@hotmail.com** 
- ou
-- Me encontre no LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
+- ou
+- Me encontre no LinkedIn <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
