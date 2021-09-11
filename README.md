@@ -8,7 +8,7 @@
 
 - 📫 Entre em contato: **lucasmicco@hotmail.com** 
 - Me encontre no LinkedIn <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 
