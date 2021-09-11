@@ -2,8 +2,7 @@
 <h3 align="center">Atualmente sou Trainee em Full-Stack Developer!</h3>
 
 <h3 align="left">Visite meu Linkedin :) </h3>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-micco-a40b23208/)]( https://www.linkedin.com/in/lucas-de-micco-a40b23208/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-micco-a40b23208/)]
 
 - 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server, DevExpress e Oracle.**
 
