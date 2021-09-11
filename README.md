@@ -6,14 +6,11 @@
 
 - 🤝 Sou colaborador da empresa iPortSolutions [https://www.iportsolutions.com.br/](https://www.iportsolutions.com.br/)
 
-<h3 align="left">Visite meu LinkedIn:</h3>
-<a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
+- 📫 Entre em contato: **lucasmicco@hotmail.com** 
+- ou
+- <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<p align="left">
-</p>
-
-- 📫 Email de contato: **lucasmicco@hotmail.com**
 
 
 
