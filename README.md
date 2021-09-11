@@ -18,8 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"></code>
 <code><img height="20" src="https://www.iconninja.com/files/64/358/407/css3-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg"></code>
 
 ![lucasdemicco GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true)
 
