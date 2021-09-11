@@ -15,4 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdemicco&layout=compact)](https://github.com/lucasdemicco/github-readme-stats)
+  
+![Snake animation](https://github.com/lucasdemicco/lucasdemicco/blob/output/github-contribution-grid-snake.svg)
