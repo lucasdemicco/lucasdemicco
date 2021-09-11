@@ -9,10 +9,10 @@
 - 📫 Email de contato: **lucasmicco@hotmail.com**
 
 <h3 align="left">Visite meu LinkedIn:</h3>
-<p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<p align="left">
 </p>
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
