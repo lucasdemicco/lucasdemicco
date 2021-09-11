@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, prazer, Lucas De Micco!</h1>
 <h3 align="center">Atualmente sou Trainee em Full-Stack Developer!</h3>
+<img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="30">
 
 - 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server, DevExpress e Oracle.**
 
@@ -17,5 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true&locale=en" alt="lucasdemicco" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdemicco&show_icons=true&locale=en&layout=compact" alt="lucasdemicco" /></p>
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 
