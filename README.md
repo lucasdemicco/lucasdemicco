@@ -19,7 +19,7 @@
 <code><img height="20" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"></code>
 <code><img height="20" src="https://www.iconninja.com/files/64/358/407/css3-icon.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg"></code>
+<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/oracle.png"></code>
 
 ![lucasdemicco GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true)
 
