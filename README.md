@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, prazer, Lucas De Micco!</h1>
 <h3 align="center">Atualmente sou Trainee em Full-Stack Developer!</h3>
-<img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="30">
+<img align="center" src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="250">
 
 - 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server, DevExpress e Oracle.**
 
