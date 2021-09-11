@@ -21,6 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdemicco&show_icons=true&locale=en&layout=compact" alt="lucasdemicco" /></p>
 </div>
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 
 
