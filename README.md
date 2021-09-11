@@ -20,7 +20,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasdemicco)](https://github.com/lucasdemicco)
 
-![Linkedin Badge](https://www.linkedin.com/in/lucas-de-micco-a40b23208/)
+[![Linkedin Badge](https://www.linkedin.com/in/lucas-de-micco-a40b23208/)]
 
 [![lucasdemicco GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdemicco)](https://github.com/lucasdemicco/github-readme-stats)
 
