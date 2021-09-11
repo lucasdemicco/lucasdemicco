@@ -20,11 +20,13 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasdemicco)](https://github.com/lucasdemicco)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/lucas-de-micco-a40b23208/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-micco-a40b23208/)](https://https://www.linkedin.com/in/lucas-de-micco-a40b23208/)
 
 [![lucasdemicco GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdemicco)](https://github.com/lucasdemicco/github-readme-stats)
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<img align="right" width="400" height="400" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+
 
 
 
