@@ -2,15 +2,14 @@
 <h3 align="center">Atualmente sou Trainee em Full-Stack Developer!</h3>
 
 <h3 align="left">Visite meu Linkedin :) </h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas-de-micco-a40b23208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-de-micco-a40b23208" height="30" width="40" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-micco-a40b23208/)]( https://www.linkedin.com/in/lucas-de-micco-a40b23208/)
+
 
 - 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server, DevExpress e Oracle.**
 
 - 📫 Email de contato: **lucasmicco@hotmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas que atuo: </h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" width="50px">
 <p align="left">
   
