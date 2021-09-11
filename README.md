@@ -12,7 +12,7 @@
 </a>
 
 
-
+<h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="20" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
