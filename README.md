@@ -12,6 +12,8 @@
 <a href="https://linkedin.com/in/lucas-de-micco-a40b23208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-de-micco-a40b23208" height="30" width="40" /></a>
 </p>
 
+<img src=" https://https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg" width="50px">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
