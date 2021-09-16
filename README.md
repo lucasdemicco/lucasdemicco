@@ -4,8 +4,7 @@
 
 - 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server e Oracle.**
 
-- 🤝 Sou colaborador da empresa: /]
-
+- 🤝 Sou colaborador da empresa: 
 - 📫 Entre em contato: **lucasmicco@hotmail.com** 
 - Me encontre no LinkedIn <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
