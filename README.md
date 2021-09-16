@@ -2,9 +2,9 @@
 <h3 align="center">Atualmente sou Trainee em Full-Stack Developer!</h3>
 <p align="center"><img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="250"></p>
 
-- 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server, DevExpress e Oracle.**
+- 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server e Oracle.**
 
-- 🤝 Sou colaborador da empresa iPortSolutions [https://www.iportsolutions.com.br/](https://www.iportsolutions.com.br/)
+- 🤝 Sou colaborador da empresa: /]
 
 - 📫 Entre em contato: **lucasmicco@hotmail.com** 
 - Me encontre no LinkedIn <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
