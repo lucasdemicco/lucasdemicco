@@ -2,8 +2,6 @@
 <h3 align="center">Atualmente sou Junior em Full-Stack Developer!</h3>
 <p align="center"><img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="250"></p>
 
-- 🌱 Estou aprendendo: **Angular, .NET WebForms, .NET Core MVC, SQL Server e Oracle.**
-
 - 🤝 Sou colaborador da empresa: https://modalgr.com.br/?gclid=Cj0KCQjwtMCKBhDAARIsAG-2Eu__Ci90mMwlHqMJyp4hW4bvMqxXHLXQPYYcl01pWZ22sC0ARMwCKYcaAuX_EALw_wcB
 - 📫 Entre em contato: **lucasmicco@hotmail.com** 
 - Me encontre no LinkedIn <a target="_blank" href="https://www.linkedin.com/in/lucas-de-micco-a40b23208/">
