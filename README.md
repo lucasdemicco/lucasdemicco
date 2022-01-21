@@ -18,6 +18,8 @@
 <code><img height="20" src="https://www.iconninja.com/files/64/358/407/css3-icon.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
 <code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/oracle.png"></code>
+<code><img height="20" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png"></code>
 
 ![lucasdemicco GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true)
 
