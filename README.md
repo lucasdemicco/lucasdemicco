@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, prazer, Lucas De Micco!</h1>
-<h3 align="center">Atualmente sou Junior em Full-Stack Developer!</h3>
+<h3 align="center">Atualmente sou Desenvolvedor Back-end Junior!</h3>
 <p align="center"><img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="250"></p>
 
 - 🤝 Sou colaborador da empresa: https://modalgr.com.br/?gclid=Cj0KCQjwtMCKBhDAARIsAG-2Eu__Ci90mMwlHqMJyp4hW4bvMqxXHLXQPYYcl01pWZ22sC0ARMwCKYcaAuX_EALw_wcB
