@@ -4,19 +4,14 @@
 - 🤝 atuo hoje no banco BTG Pactual
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
-<code><img height="20" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png](https://cdn-icons-png.flaticon.com/512/121/121152.png)"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F13084%2Fjava-original&psig=AOvVaw3K9zowLDCCoBc1HdyGtLPw&ust=1697379945215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiVwpff9YEDFQAAAAAdAAAAABAS"></code>
+<code><img height="20" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F13084%2Fjava-original&psig=AOvVaw3K9zowLDCCoBc1HdyGtLPw&ust=1697379945215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiVwpff9YEDFQAAAAAdAAAAABAS](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftools.jboss.org%2Ffeatures%2Fquarkus.html&psig=AOvVaw0LPsulhbz_Vj42_bqUo6Oj&ust=1697380058519000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjCjs3f9YEDFQAAAAAdAAAAABAE)"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
-
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="20" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"></code>
-<code><img height="20" src="https://www.iconninja.com/files/64/358/407/css3-icon.svg"></code>
-<code><img height="20" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
-<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/oracle.png"></code>
 <code><img height="20" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png"></code>
 
 ![lucasdemicco GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true)
 
