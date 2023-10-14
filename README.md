@@ -1,4 +1,4 @@
-![image](https://github.com/lucasdemicco/lucasdemicco/assets/65690298/0a916634-5833-410a-957f-735daeab49b8)<h1 align="center">Prazer, Lucas De Micco!</h1>
+<h1 align="center">Prazer, Lucas De Micco!</h1>
 <h3 align="center">Desenvolvedor Back-end</h3>
 
 - 🤝 atuo hoje no banco BTG Pactual
