@@ -1,11 +1,11 @@
-<h1 align="center">Prazer, Lucas De Micco!</h1>
+![image](https://github.com/lucasdemicco/lucasdemicco/assets/65690298/0a916634-5833-410a-957f-735daeab49b8)<h1 align="center">Prazer, Lucas De Micco!</h1>
 <h3 align="center">Desenvolvedor Back-end</h3>
 
 - 🤝 atuo hoje no banco BTG Pactual
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F13084%2Fjava-original&psig=AOvVaw3K9zowLDCCoBc1HdyGtLPw&ust=1697379945215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiVwpff9YEDFQAAAAAdAAAAABAS"></code>
-<code><img height="20" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F13084%2Fjava-original&psig=AOvVaw3K9zowLDCCoBc1HdyGtLPw&ust=1697379945215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiVwpff9YEDFQAAAAAdAAAAABAS](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftools.jboss.org%2Ffeatures%2Fquarkus.html&psig=AOvVaw0LPsulhbz_Vj42_bqUo6Oj&ust=1697380058519000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjCjs3f9YEDFQAAAAAdAAAAABAE)"></code>
+<code><img height="20" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F13084%2Fjava-original&psig=AOvVaw3K9zowLDCCoBc1HdyGtLPw&ust=1697379945215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiVwpff9YEDFQAAAAAdAAAAABAS](https://cdn-icons-png.flaticon.com/512/5968/5968231.png)"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="20" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
