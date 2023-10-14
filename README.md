@@ -4,7 +4,9 @@
 - 🤝 atuo hoje no banco BTG Pactual
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
-
+</br>
+</br>
+</br>
 <div style="display: inline_block"><br>
 <code><img height="20" src="https://freepngimg.com/download/java/85390-java-language-text-programming-logo-programmer.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg"></code>
@@ -17,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/lucasdemicco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquedemicco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedemicco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdemicco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div> 
