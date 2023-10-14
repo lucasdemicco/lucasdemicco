@@ -1,11 +1,12 @@
-<h1 align="center">Olá 👋, prazer, Lucas De Micco!</h1>
-<h3 align="center">Atualmente sou Desenvolvedor Back-end Junior!</h3>
-<p align="center"><img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="250"></p>
+<h1 align="center">Prazer, Lucas De Micco!</h1>
+<h3 align="center">Desenvolvedor Back-end</h3>
 
-- 🤝 Sou colaborador da empresa: BTG Pactual
-- 📫 Entre em contato: **lucasmicco@hotmail.com** 
+- 🤝 atuo hoje no banco BTG Pactual
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
+<code><img height="20" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png](https://cdn-icons-png.flaticon.com/512/121/121152.png)"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
+
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="20" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
