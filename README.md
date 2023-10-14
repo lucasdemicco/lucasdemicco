@@ -1,7 +1,7 @@
 ### Prazer, Lucas De Micco!
 <h3 align="center">Desenvolvedor Back-end</h3>
 
-- 🤝 atuo hoje no banco BTG Pactual
+- atuo hoje no banco BTG Pactual <img height="40" src="[https://freepngimg.com/download/java/85390-java-language-text-programming-logo-programmer.png](https://play-lh.googleusercontent.com/O5Z9jsv79WTfdd37TFPyIwAQjNotIZTTEC6sOXaD3_2IXrMjtOI2ZnqReOicI3TgmqI=w240-h480-rw)">
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <div style="display: inline_block"><br>
