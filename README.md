@@ -1,4 +1,4 @@
-### Prazer, Lucas De Micco!
+### 
 <h3 align="center">Sênior .NET Analyst</h3>
 
 - atuo hoje no banco BTG Pactual
