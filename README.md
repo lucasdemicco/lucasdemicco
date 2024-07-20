@@ -1,7 +1,7 @@
 ### Prazer, Lucas De Micco!
-<h3 align="center">Desenvolvedor Back-end</h3>
+<h3 align="center">Sênior .NET Analyst</h3>
 
-- atuo hoje no banco BTG Pactual <img height="40" src="https://companieslogo.com/img/orig/BPAC3.SA-077c9a44.png?t=1654511556">
+- atuo hoje no banco BTG Pactual
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <div style="display: inline_block"><br>
