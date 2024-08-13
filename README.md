@@ -1,12 +1,10 @@
 ### 
-<h3 align="center">Sênior .NET Analyst</h3>
+<h3 align="center">Sênior Fullstack Analyst</h3>
 
-- atuo hoje no banco BTG Pactual
+- atuo hoje no banco Daycoval
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <div style="display: inline_block"><br>
-<code><img height="40" src="https://freepngimg.com/download/java/85390-java-language-text-programming-logo-programmer.png"></code>
-<code><img height="40" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="40" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
