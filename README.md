@@ -5,11 +5,11 @@
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <div style="display: inline_block"><br>
+<code><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg](https://ih1.redbubble.net/image.2460983872.9819/st,small,507x507-pad,600x600,f8f8f8.u1.jpg)"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="40" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
 <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg"></code>
 </div>
 </br>
 <div align="center">
