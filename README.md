@@ -5,7 +5,7 @@
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <div style="display: inline_block"><br>
-<code><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg](https://ih1.redbubble.net/image.2460983872.9819/st,small,507x507-pad,600x600,f8f8f8.u1.jpg)"></code>
+<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.dev%2Fblog%2Fgo-brand%2FGo-Logo%2FSVG%2F&psig=AOvVaw3bH2S3rFf8cqCzl46zvyPl&ust=1733702695091000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjXoPzvlooDFQAAAAAdAAAAABAE"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"></code>
 <code><img height="40" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"></code>
