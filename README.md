@@ -1,7 +1,5 @@
 ### 
-<h3 align="center">Sênior Backend Analyst</h3>
-
-- atuo hoje no banco Daycoval
+<h3 align="center">Sênior Developer Analyst</h3>
 
 <h1 align="center">Linguagens e ferramentas de atuação: </h1>
 <div style="display: inline_block"><br>
