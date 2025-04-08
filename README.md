@@ -12,11 +12,6 @@
 <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png"></code>
 </div>
 </br>
-<div align="center">
-  <a href="https://github.com/lucasdemicco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdemicco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdemicco&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
  ##
  
